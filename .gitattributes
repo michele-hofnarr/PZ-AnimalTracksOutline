@@ -1,0 +1,5 @@
+# Lua/JSON/text mod sources: normalise to LF in the repo and on checkout, so the
+# working copy, staging and the Workshop upload all agree regardless of platform.
+* text=auto eol=lf
+
+*.png binary
