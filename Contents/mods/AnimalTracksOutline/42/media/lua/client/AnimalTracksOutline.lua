@@ -6,8 +6,8 @@
 -- client computes its own outlines and the server never sees them. OnPlayerUpdate fires
 -- only for local players -- once per tick normally, once per player in split-screen -- so
 -- each pass works on the player it was called for, in that player's outline slot, with its
--- own state. Multiplayer support was first worked out by the community in "Animal Tracks
--- Outline MP" (Workshop ID 3809241207).
+-- own state. Multiplayer support co-authored by Glapnak, who first built it in "Animal
+-- Tracks Outline MP" (Workshop ID 3809241207).
 require "Foraging/ISSearchManager"
 require "Foraging/ISSearchWindow"
 

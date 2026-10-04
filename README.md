@@ -51,8 +51,8 @@ only for local players — once per tick normally, once per player in split-scre
 state (outlined objects, fade timers, the corpse scan) is kept per local player and each
 player's Search Mode and Tracking level decide their own outlines.
 
-Multiplayer support was first worked out by the community in *Animal Tracks Outline MP*
-(Workshop ID 3809241207).
+Multiplayer support co-authored by **Glapnak**, who first built it in *Animal Tracks Outline
+MP* (Workshop ID 3809241207).
 
 ## Building / publishing
 
